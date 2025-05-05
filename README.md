@@ -11,5 +11,7 @@ Using piping to search one file
 
 Regex Matching Examples
 >>  ./Jrep '[A-Z]{3}' sample.txt
+
 >>  ./Jrep '^start' sample.txt
+
 >>  ./Jrep t.st sample .txt
