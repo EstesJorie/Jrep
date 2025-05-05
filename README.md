@@ -7,7 +7,7 @@ To run/use:
 > ./Jrep world sample.txt
 
 Using piping to search one file
->> *[cat sample.txt | ./Jrep banana]*
+>> cat sample.txt | ./Jrep banana
 
 Regex Matching Examples
 >>  ./Jrep '[A-Z]{3}' sample.txt
